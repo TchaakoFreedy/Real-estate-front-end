@@ -1,0 +1,41 @@
+.image img {
+    height: 70vh;
+    width: 30%;
+    margin-top: 200px;
+    margin-left: 60%;
+}
+.about-text {
+    /* margin-bottom: 100%; */
+    margin-left: 100px;
+    margin-top: 40px;
+    height: 550px;
+    
+} 
+.about-text h2 {
+
+    display: flex;
+    /* text-decoration: underline;
+    text-decoration-color: black; */
+     margin-top: 30px;
+     color: green;
+}
+.about-text p {
+    margin-top: 40px;
+  
+ 
+}
+
+.about-text{
+    background-image: url('../assets/condos-pool.png');
+    background-position: 80% 15% ;
+   background-size: 300px 400px;
+   background-repeat: no-repeat;
+}
+body {
+    /* background-image: url('../assets/condos-pool.png');
+    background-position: 80% 15% ;
+   background-size: 300px 400px;
+   background-repeat: no-repeat; */
+  background-color: rgb(205, 199, 199); 
+   
+}
